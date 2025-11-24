@@ -1,0 +1,101 @@
+Job_ID,Job_Title,Company,Location,Department,Salary,Posted_Date,Applications_Received,Skills_Required,Status,Experience_Required
+1,Executive,FinServ,Abu Dhabi,HR,5679,2025-01-01,8,"Java, Python",Open,1
+2,Specialist,ABC Corp,Sharjah,HR,7506,2025-01-02,198,"Java, Python",Closed,9
+3,Developer,FinServ,Dubai,IT,17284,2025-01-03,0,"Java, Python",Open,2
+4,Specialist,XYZ Ltd,Dubai,HR,11253,2025-01-04,127,"Marketing, Sales",Closed,2
+5,Specialist,ABC Corp,Ajman,Sales,23128,2025-01-05,51,"Finance, Accounting",Closed,4
+6,Manager,Medicare,Sharjah,Finance,13435,2025-01-06,82,"Java, Python",Closed,4
+7,Developer,GlobalTech,Ras Al Khaimah,IT,0,2025-01-07,110,"Finance, Accounting",Closed,1
+8,Developer,FinServ,Sharjah,Finance,17296,2025-01-08,143,"Marketing, Sales",Closed,9
+9,Developer,GlobalTech,Ajman,HR,22525,2025-01-09,116,"Marketing, Sales",Open,5
+10,,GlobalTech,Ajman,HR,17245,2025-01-10,68,"Finance, Accounting",Open,4
+11,Executive,ABC Corp,Sharjah,IT,15151,2025-01-11,98,"Python, SQL",Closed,5
+12,Developer,GlobalTech,Ajman,Sales,14457,2025-01-12,139,"Excel, Power BI",Closed,0
+13,Specialist,Medicare,Sharjah,Marketing,6479,2025-01-13,24,"Python, SQL",Open,4
+14,Manager,GlobalTech,Abu Dhabi,IT,8452,2025-01-14,179,"Python, SQL",Closed,8
+15,Executive,ABC Corp,Sharjah,Marketing,9881,2025-01-15,122,"Python, SQL",Closed,9
+16,Manager,Medicare,Sharjah,Marketing,18069,2025-01-16,0,"Java, Python",Open,1
+17,Executive,XYZ Ltd,Ajman,Sales,6849,2025-01-17,150,"Marketing, Sales",Closed,0
+18,Specialist,GlobalTech,Ajman,Marketing,11390,2025-01-18,143,"Python, SQL",Closed,9
+19,Analyst,ABC Corp,Dubai,Marketing,15922,2025-01-19,56,"Marketing, Sales",Open,8
+20,Executive,XYZ Ltd,Dubai,Sales,6489,2025-01-20,38,"Finance, Accounting",Open,9
+21,Manager,XYZ Ltd,Abu Dhabi,Marketing,13823,2025-01-21,108,"Excel, Power BI",Open,8
+22,Specialist,FinServ,Dubai,Marketing,13207,2025-01-22,180,"Finance, Accounting",Closed,8
+23,Executive,Medicare,Sharjah,Marketing,13540,2025-01-23,41,"Finance, Accounting",Open,5
+24,Analyst,GlobalTech,Ajman,IT,20364,2025-01-24,185,"Java, Python",Open,7
+25,Analyst,ABC Corp,Dubai,IT,8611,2025-01-25,166,"Excel, Power BI",Open,0
+26,Developer,FinServ,Dubai,IT,23223,2025-01-26,141,"Finance, Accounting",Open,9
+27,Developer,Medicare,Abu Dhabi,Sales,9878,2025-01-27,121,"Finance, Accounting",Open,3
+28,Manager,FinServ,Abu Dhabi,HR,20347,2025-01-28,132,"Excel, Power BI",Open,0
+29,Executive,Medicare,Sharjah,Marketing,4851,2025-01-29,162,"Excel, Power BI",Closed,7
+30,Executive,Medicare,Ajman,Marketing,22071,2025-01-30,74,"Finance, Accounting",Closed,0
+31,Developer,GlobalTech,Abu Dhabi,Sales,10833,2025-01-31,145,"Excel, Power BI",Open,2
+32,Executive,Medicare,Dubai,Marketing,15938,2025-02-01,75,"Finance, Accounting",Open,3
+33,Executive,FinServ,Ajman,IT,6427,2025-02-02,8,"Finance, Accounting",Open,7
+34,Analyst,Medicare,Ajman,HR,8000,2025-02-03,73,"Java, Python",Closed,5
+35,Developer,GlobalTech,Dubai,Finance,9052,2025-02-04,185,"Python, SQL",Closed,9
+36,Specialist,GlobalTech,Abu Dhabi,Marketing,6738,2025-02-05,144,"Finance, Accounting",Closed,6
+37,Developer,FinServ,Dubai,IT,9387,2025-02-06,6,"Marketing, Sales",Closed,7
+38,Specialist,XYZ Ltd,Ajman,Finance,12002,2025-02-07,173,"Python, SQL",Closed,1
+39,Analyst,XYZ Ltd,Ras Al Khaimah,HR,9536,2025-02-08,140,"Python, SQL",Closed,9
+40,Manager,Medicare,Ras Al Khaimah,Finance,17479,2025-02-09,167,"Python, SQL",Closed,7
+41,Executive,ABC Corp,Sharjah,IT,7913,2025-02-10,169,"Java, Python",Closed,2
+42,Analyst,Medicare,Dubai,Finance,21450,2025-02-11,136,"Finance, Accounting",Closed,6
+43,Executive,FinServ,Dubai,Sales,24764,2025-02-12,177,"Java, Python",Open,2
+44,Manager,FinServ,Sharjah,Finance,14636,2025-02-13,0,"Finance, Accounting",Open,6
+45,Manager,FinServ,Sharjah,Marketing,24491,2025-02-14,121,"Java, Python",Open,1
+46,Analyst,FinServ,Sharjah,Marketing,9726,2025-02-15,193,"Java, Python",Open,9
+47,Manager,FinServ,Ajman,Sales,7373,2025-02-16,4,"Marketing, Sales",Closed,5
+48,Specialist,GlobalTech,Dubai,IT,16161,2025-02-17,28,"Java, Python",Closed,2
+49,Manager,XYZ Ltd,Ajman,Marketing,6082,2025-02-18,164,"Excel, Power BI",Open,2
+50,Executive,FinServ,Sharjah,HR,20281,2025-02-19,165,"Marketing, Sales",Closed,8
+51,Executive,ABC Corp,Dubai,Marketing,19305,2025-02-20,82,"Java, Python",Open,6
+52,Executive,ABC Corp,Ajman,Marketing,0,2025-02-21,135,"Python, SQL",Closed,4
+53,Executive,ABC Corp,Ajman,IT,15261,2025-02-22,108,"Excel, Power BI",Open,9
+54,Specialist,ABC Corp,Sharjah,Finance,4417,2025-02-23,64,"Excel, Power BI",Closed,6
+55,Developer,GlobalTech,Dubai,Marketing,12808,2025-02-24,85,"Excel, Power BI",Closed,8
+56,Analyst,ABC Corp,Sharjah,Sales,24358,2025-02-25,144,"Marketing, Sales",Open,0
+57,Executive,FinServ,Dubai,Finance,7267,2025-02-26,70,"Java, Python",Closed,6
+58,Manager,Medicare,Ras Al Khaimah,HR,21209,2025-02-27,44,"Java, Python",Open,5
+59,Executive,ABC Corp,Abu Dhabi,IT,9745,2025-02-28,131,"Python, SQL",Open,9
+60,Manager,GlobalTech,Abu Dhabi,HR,15338,2025-03-01,35,"Python, SQL",Open,8
+61,Manager,GlobalTech,Abu Dhabi,Finance,4412,2025-03-02,69,"Excel, Power BI",Open,0
+62,Executive,ABC Corp,Sharjah,Finance,11543,2025-03-03,158,"Python, SQL",Closed,3
+63,Specialist,Medicare,Ras Al Khaimah,Finance,11587,2025-03-04,18,"Marketing, Sales",Closed,8
+64,Manager,ABC Corp,Dubai,HR,4728,2025-03-05,188,"Java, Python",Closed,3
+65,Manager,GlobalTech,Ajman,Finance,0,2025-03-06,107,"Excel, Power BI",Open,9
+66,Executive,XYZ Ltd,Dubai,HR,9988,2025-03-07,181,"Python, SQL",Closed,2
+67,Manager,FinServ,Ajman,Finance,22888,2025-03-08,166,"Marketing, Sales",Open,8
+68,Manager,GlobalTech,Dubai,Sales,6967,2025-03-09,90,"Marketing, Sales",Closed,1
+69,Executive,ABC Corp,Ras Al Khaimah,Finance,18527,2025-03-10,89,"Python, SQL",Closed,3
+70,Executive,FinServ,Ajman,HR,23170,2025-03-11,18,"Java, Python",Closed,5
+71,Analyst,ABC Corp,Sharjah,Marketing,20048,2025-03-12,38,"Python, SQL",Open,1
+72,Specialist,ABC Corp,Dubai,Finance,0,2025-03-13,125,"Excel, Power BI",Closed,7
+73,Specialist,XYZ Ltd,Dubai,Marketing,24463,2025-03-14,194,"Python, SQL",Closed,7
+74,Manager,FinServ,Ajman,Sales,21955,2025-03-15,172,"Marketing, Sales",Open,0
+75,,FinServ,Sharjah,IT,9073,2025-03-16,140,"Python, SQL",Closed,2
+76,Manager,XYZ Ltd,Sharjah,Sales,9104,2025-03-17,0,"Java, Python",Open,9
+77,Analyst,GlobalTech,Ras Al Khaimah,Finance,6143,2025-03-18,57,"Finance, Accounting",Closed,8
+78,Executive,ABC Corp,Sharjah,Marketing,11357,2025-03-19,147,"Python, SQL",Open,4
+79,Executive,Medicare,Sharjah,Marketing,16043,2025-03-20,199,"Java, Python",Open,5
+80,Executive,ABC Corp,Sharjah,HR,7440,2025-03-21,60,"Java, Python",Closed,3
+81,Specialist,ABC Corp,Abu Dhabi,Marketing,24150,2025-03-22,126,"Marketing, Sales",Open,9
+82,Analyst,GlobalTech,Ras Al Khaimah,HR,9644,2025-03-23,104,"Java, Python",Open,1
+83,Specialist,ABC Corp,Dubai,IT,14518,2025-03-24,166,"Java, Python",Open,7
+84,Specialist,XYZ Ltd,Ajman,Finance,18552,2025-03-25,0,"Java, Python",Open,5
+85,Analyst,XYZ Ltd,Dubai,HR,6914,2025-03-26,130,"Java, Python",Open,4
+86,Analyst,FinServ,Ras Al Khaimah,IT,17584,2025-03-27,91,"Excel, Power BI",Open,8
+87,Analyst,Medicare,Ajman,Marketing,16144,2025-03-28,189,"Excel, Power BI",Closed,0
+88,Analyst,ABC Corp,Ras Al Khaimah,Marketing,18397,2025-03-29,190,"Marketing, Sales",Open,4
+89,Executive,ABC Corp,Sharjah,IT,12787,2025-03-30,112,"Python, SQL",Open,5
+90,Developer,GlobalTech,Ajman,Marketing,0,2025-03-31,152,"Java, Python",Closed,4
+91,Developer,XYZ Ltd,Sharjah,IT,4728,2025-04-01,55,"Python, SQL",Closed,5
+92,Analyst,Medicare,Dubai,HR,21749,2025-04-02,160,"Python, SQL",Closed,5
+93,Developer,FinServ,Dubai,HR,24876,2025-04-03,165,"Marketing, Sales",Closed,6
+94,Developer,XYZ Ltd,Ajman,IT,4698,2025-04-04,116,"Java, Python",Closed,3
+95,Analyst,FinServ,Ajman,HR,11186,2025-04-05,133,"Java, Python",Closed,7
+96,Developer,GlobalTech,Ras Al Khaimah,HR,18512,2025-04-06,57,"Finance, Accounting",Closed,6
+97,,GlobalTech,Ras Al Khaimah,HR,17923,2025-04-07,43,"Python, SQL",Open,8
+98,Manager,ABC Corp,Sharjah,Sales,20779,2025-04-08,0,"Python, SQL",Open,6
+99,Manager,Medicare,Ajman,Finance,11400,2025-04-09,159,"Excel, Power BI",Closed,2
+100,Analyst,FinServ,Dubai,Marketing,8171,2025-04-10,172,"Finance, Accounting",Open,2
